@@ -53,7 +53,7 @@ nav {
     letter-spacing: 0.03em;
 }
 
-.web1 {color: var(--headers-color);}
+.webone {color: var(--headers-color);}
 /* как задать цвет селектору в ул, а не каждому отедльному ли?!!!!*/
 
 .links {
@@ -90,7 +90,7 @@ address {
 /* footer */
 
 .footer-descrip {background-color: var(--headers-color) ;}
-.web2 {color: var(--secondary-body-color);}
+.webtwo {color: var(--secondary-body-color);}
 
 .msg {color: var(--secondary-body-color);
     width: 264px;
@@ -110,7 +110,7 @@ address {
 }
 
 .btn-portf { 
-    font-family: Roboto. sans-serif;
+    font-family: Roboto, sans-serif;
 color: var(--secondary-color);
 background-color: #F4F4FD;
 font-weight: 500;
@@ -170,7 +170,7 @@ letter-spacing: 0.02em;}
 
     .sub-title-features {font-weight: 500;
     font-size: 20px;
-    line height: 1.2;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     }
 
@@ -194,3 +194,8 @@ color: var(--headers-color);
     letter-spacing: 0.02em;
     color: var(--headers-color);
 }
+
+.name {font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;}
